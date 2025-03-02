@@ -12,9 +12,9 @@
 - **Tools**: Git, VSCode, Vite, SWC  
 
 ## 🔥 Projects  
-🌱 **HomeSync** – A recycling and upcycling platform (**React, Supabase, MongoDB**)  
+🌱 **My-Recycle-App** – A recycling and upcycling platform (**React, Supabase, MongoDB**)  
 🎭 **Emotion Detection** – ML-based emotion analysis for detecting emotion and analysing stress.
-🏡 **Roomie** – A web app for roommate listings  
+🏡 **HomeSync** – A web app for apartment listing and rommate finding.  
 
 ## 📫 Let's Connect!  
 🔗 **GitHub**: [@shreyanithin](https://github.com/shreyanithin)  
