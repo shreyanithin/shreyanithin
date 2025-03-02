@@ -13,7 +13,7 @@
 
 ## 🔥 Projects  
 🌱 **My-Recycle-App** – A recycling and upcycling platform (**React, Supabase, MongoDB**)  
-🎭 **Emotion Detection** – ML-based emotion analysis for detecting emotion and analysing stress
+🎭 **Emotion Detection** – ML-based emotion analysis for detecting emotion and analysing stress  
 🏡 **HomeSync** – A web app for apartment listing and rommate finding.  
 
 ## 📫 Let's Connect!  
