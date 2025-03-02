@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! I'm Shreya Nithin 👋  
 
-<!--
-**shreyanithin/shreyanithin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me  
+🎓 Computer Science Engineering student at CUSAT  
+💻 Passionate about **web development and AI/ML**  
+🚀 Constantly learning and exploring new technologies  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+- **Languages**: Java, C, C++, Python, JavaScript  
+- **Web Development**: HTML, CSS, JavaScript, React, Next.js  
+- **Databases**: MySQL,Supabase  
+- **Tools**: Git, VSCode, Vite, SWC  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects  
+🌱 **HomeSync** – A recycling and upcycling platform (**React, Supabase, MongoDB**)  
+🎭 **Emotion Detection** – ML-based emotion analysis for detecting emotion and analysing stress.
+🏡 **Roomie** – A web app for roommate listings  
+
+## 📫 Let's Connect!  
+🔗 **GitHub**: [@shreyanithin](https://github.com/shreyanithin)  
+🔗 **LinkedIn**: [shreya nithin](https://www.linkedin.com/in/shreya-nithin-874872277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
+📩 **Email**: [shreyanithinr@gmail.com](#)  
+
+💡 *"Keep learning, keep building!"* 🚀
